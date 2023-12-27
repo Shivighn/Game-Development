@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - collectibles
+  - PlasticBottles
+  - GameMaster
+  - RecycleBin
+  - EndGame
+  - upperblock
+  - destroyingblock
+  - lowerblock
+  - lastendingofgame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 2776281425
+    locked: 0
+  - name: middle
+    uniqueID: 751728043
+    locked: 0
+  - name: middle 1
+    uniqueID: 3817144473
+    locked: 0
+  - name: middle 2
+    uniqueID: 156053597
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
